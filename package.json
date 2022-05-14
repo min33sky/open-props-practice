@@ -1,0 +1,17 @@
+{
+  "name": "open-props-tutotial",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "open-props": "^1.3.16",
+    "postcss-jit-props": "^1.0.6"
+  }
+}
